@@ -19,3 +19,7 @@
 <a href="https://github.com/evilsocket">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilsocket&layout=compact&theme=chartreuse-dark&langs_count=8" />
 </a>
+
+## My GitHub Awards
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=evilsocket&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
