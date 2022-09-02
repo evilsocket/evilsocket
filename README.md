@@ -11,11 +11,10 @@
   <a href="https://keybase.io/evilsocket">
     <img src="https://img.shields.io/keybase/pgp/evilsocket?style=for-the-badge&logoColor=00AEFF&labelColor=black&color=7fff00">
   </a>
-</p>
-
-<a href="https://github.com/evilsocket">
+  
+  <a href="https://github.com/evilsocket">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=evilsocket&count_private=true&show_icons=true&theme=chartreuse-dark" />
 </a>
-<a href="https://github.com/evilsocket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilsocket&layout=compact&theme=chartreuse-dark&langs_count=8" />
-</a>
+</p>
+
+
