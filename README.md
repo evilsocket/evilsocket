@@ -1,25 +1,11 @@
-
-
 <p align="center">
-  <a href="https://twitter.com/evilsocket">
-    <img src="https://img.shields.io/twitter/follow/evilsocket?style=for-the-badge&label=%40evilsocket&logo=twitter&logoColor=00AEFF&labelColor=black&color=7fff00">
-  </a>
-  <a href="https://www.linkedin.com/in/simonemargaritelli/">
-    <img src="https://img.shields.io/badge/-simone%20margaritelli-blue?style=for-the-badge&logo=Linkedin&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-  <a href="mailto:evilsocket@gmail.com">
-    <img src="https://img.shields.io/badge/evilsocket@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=00AEFF&labelColor=black&color=black">
-  </a>
-  <a href="https://keybase.io/evilsocket">
-    <img src="https://img.shields.io/keybase/pgp/evilsocket?style=for-the-badge&logoColor=00AEFF&labelColor=black&color=7fff00">
-  </a>
-  
-   <br/>
-  
-  <a href="https://github.com/evilsocket">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=evilsocket&count_private=true&show_icons=true&theme=chartreuse-dark" />
-</a>
+<img src="https://raw.githubusercontent.com/evilsocket/evilsocket/refs/heads/main/me.jpg"/>
 </p>
+
+👋 Hi, I’m Simone — an open source software developer focused on AI systems, code intelligence, and low-level security tooling. I work at the intersection of machine learning, cybersecurity, and system design.
+🎸 Also a lifelong guitarist, because rhythm applies to everything.
+
+[All my links](https://linktr.ee/evilsocket).
 
 <hr/>
 
