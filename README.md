@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://raw.githubusercontent.com/evilsocket/evilsocket/refs/heads/main/me.jpg"/>
-</p>
-
 👋 Hi, I’m Simone — an open source software developer focused on AI systems, code intelligence, and low-level security tooling. I work at the intersection of machine learning, cybersecurity, and system design.
 🎸 Also a lifelong guitarist, because rhythm applies to everything.
 
