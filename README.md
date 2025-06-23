@@ -1,5 +1,4 @@
-👋 Hi, I’m Simone — an open source software developer focused on AI systems, code intelligence, and low-level security tooling. I work at the intersection of machine learning, cybersecurity, and system design.
-🎸 Also a lifelong guitarist, because rhythm applies to everything.
+Preoccupied with a single leaf, you won’t see the tree. Preoccupied with a single tree…you’ll miss the entire forest.
 
 [All my links](https://linktr.ee/evilsocket).
 
